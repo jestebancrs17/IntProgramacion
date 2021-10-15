@@ -1,0 +1,9 @@
+.fondo {background-color: #60921f;}
+.fuente {font-family: 'Lato', sans-serif;}
+.formulario {text-align: center; color: #60921f; font-weight: 700;}
+.banner {height: 600px;}
+.fondo2{
+    background-image: url('img/imagen1.jpg');
+    height: 600px;
+    background-attachment: fixed;
+}
